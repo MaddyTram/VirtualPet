@@ -8,6 +8,7 @@ void draw(){
   //fins
   strokeWeight(7);
   fill(#9ba6a8);
+  stroke(0, 0, 0);
   ellipse(370, 210, 200, 210);
   fill(#77D8FA);
   ellipse(420, 210, 150, 210);
