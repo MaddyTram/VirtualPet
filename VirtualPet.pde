@@ -1,14 +1,12 @@
 
 void setup(){
-  //some of your code here
   size(650, 650);
   background(#77D8FA);
-  strokeWeight(8);
 
 }
 void draw(){
-  //more of your code here
   //fins
+  strokeWeight(7);
   fill(#9ba6a8);
   ellipse(370, 210, 200, 210);
   fill(#77D8FA);
