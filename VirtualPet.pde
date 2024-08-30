@@ -8,8 +8,8 @@ void setup(){
 void draw(){
   //more of your code here
   //fins
+  strokeWeight(8);
   fill(#9ba6a8);
-  strokeWeight(7);
   ellipse(370, 210, 200, 210);
   fill(#77D8FA);
   ellipse(420, 210, 150, 210);
